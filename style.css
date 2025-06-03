@@ -18,6 +18,7 @@ nav {
   padding: 10px;
   justify-content: space-between;
 }
+border-radius:value; Uniform Rounded Cornes
 
 h1 {
   display: flex;
@@ -45,7 +46,8 @@ a {
 }
 
 /* main container area beneath menu */
-main {
+main { 
+  border-radius: 15px;
   background: rgb(245, 238, 219);
   display: flex;
   margin-top: 20px;
